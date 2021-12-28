@@ -160,7 +160,7 @@ var (
 		utils.MinerNotifyFullFlag,
 		configFileFlag,
 		utils.CatalystFlag,
-		utils.BlockPruneQuantity,
+		utils.BlockPruneAmountLeft,
 	}
 
 	rpcFlags = []cli.Flag{
